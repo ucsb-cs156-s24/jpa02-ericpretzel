@@ -1,6 +1,6 @@
 # jpa02-ericpretzel
 
-Repo: https://ucsb-cs156-s24/jpa02-ericpretzel
+Repo: https://github.com/ucsb-cs156-s24/jpa02-ericpretzel
 
 Deployed at: http://jpa02-ericpretzel.dokku-03.cs.ucsb.edu/
 
